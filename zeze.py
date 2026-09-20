@@ -1,0 +1,2 @@
+randomLetters = 'OPXCMURETN'
+answer = '!CMPUTER'
